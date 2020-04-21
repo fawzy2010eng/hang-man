@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    margin-left: auto;
+    background-color: red;
+    padding-left: 30%;
+    padding-top: 30%;    
+}
+div{
+    width: 80%;
+    
+}
+input{
+    width: 100%;
+    background-color: transparent;
+    text-decoration: underline;
+    border: none;
+    font-size: 25px;
+    color: white
+}
+h3{
+    color: white
+}
+button{
+    background-color: aqua;
+    font-size: 12px;
+    margin: 3px 7px;
+    
+}
